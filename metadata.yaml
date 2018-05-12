@@ -1,4 +1,8 @@
 _repo: Le-feu_48212
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48212-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbusse, Henri
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1472
     wikipedia: http://en.wikipedia.org/wiki/Henri_Barbusse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48212#Le-feu
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2015-02-09'
 gutenberg_type: Text
